@@ -25,7 +25,7 @@
 [![GPL 3.0 License][license-badge]][license]
 [![All Contributors][all-contributors-badge]](#contributors-)
 [![Code of Conduct][coc-badge]][coc]
-[![Gitpod ready-to-code][gitpod-badge]](https://gitpod.io/#https://github.com/kentcdodds/react-fundamentals)
+[![Gitpod ready-to-code][gitpod-badge]](https://gitpod.io/#https://github.com/improbableone/react-fundamentals)
 <!-- prettier-ignore-end -->
 
 ## Prerequisites
@@ -46,11 +46,11 @@
 It's recommended you run everything in the same environment you work in every
 day, but if you don't want to set up the repository locally, you can get started
 in one click with [Gitpod](https://gitpod.io),
-[CodeSandbox](https://codesandbox.io/s/github/kentcdodds/react-fundamentals), or
+[CodeSandbox](https://codesandbox.io/s/github/improbableone/react-fundamentals), or
 by following the [video demo](https://www.youtube.com/watch?v=gCoVJm3hGk4)
 instructions for [GitHub Codespaces](https://github.com/features/codespaces).
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/kentcdodds/react-fundamentals)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/improbableone/react-fundamentals)
 
 For a local development environment, follow the instructions below
 
@@ -83,7 +83,7 @@ After you've made sure to have the correct things (and versions) installed, you
 should be able to just run a few commands to get set up:
 
 ```shell
-git clone https://github.com/kentcdodds/react-fundamentals.git
+git clone https://github.com/improbableone/react-fundamentals.git
 cd react-fundamentals
 node setup
 ```
@@ -93,7 +93,7 @@ optional and just automatically adds your email to the links in the project to
 make filling out some forms easier.
 
 A few common issues during `node setup` have involved PATH variables (above
-links or [here](https://github.com/kentcdodds/react-fundamentals/issues/27)),
+links or [here](https://github.com/improbableone/react-fundamentals/issues/27)),
 reinstalling git, node, or npm, and clearing npm caches.
 
 If you get any errors, please read through them and see if you can find out what
@@ -285,17 +285,17 @@ Thank you! https://kcd.im/rf-ws-feedback
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
 [git]: https://git-scm.com/
-[build-badge]: https://img.shields.io/github/workflow/status/kentcdodds/react-fundamentals/validate/main?logo=github&style=flat-square
-[build]: https://github.com/kentcdodds/react-fundamentals/actions?query=workflow%3Avalidate
+[build-badge]: https://img.shields.io/github/workflow/status/improbableone/react-fundamentals/validate/main?logo=github&style=flat-square
+[build]: https://github.com/improbableone/react-fundamentals/actions?query=workflow%3Avalidate
 [license-badge]: https://img.shields.io/badge/license-GPL%203.0%20License-blue.svg?style=flat-square
-[license]: https://github.com/kentcdodds/react-fundamentals/blob/main/LICENSE
+[license]: https://github.com/improbableone/react-fundamentals/blob/main/LICENSE
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
 [gitpod-badge]: https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod
-[coc]: https://github.com/kentcdodds/react-fundamentals/blob/main/CODE_OF_CONDUCT.md
+[coc]: https://github.com/improbableone/react-fundamentals/blob/main/CODE_OF_CONDUCT.md
 [emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
 [all-contributors]: https://github.com/kentcdodds/all-contributors
-[all-contributors-badge]: https://img.shields.io/github/all-contributors/kentcdodds/react-fundamentals?color=orange&style=flat-square
+[all-contributors-badge]: https://img.shields.io/github/all-contributors/improbableone/react-fundamentals?color=orange&style=flat-square
 [win-path]: https://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/
 [mac-path]: http://stackoverflow.com/a/24322978/971592
-[issue]: https://github.com/kentcdodds/react-fundamentals/issues/new
+[issue]: https://github.com/improbableone/react-fundamentals/issues/new
 <!-- prettier-ignore-end -->
